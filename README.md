@@ -1,4 +1,4 @@
-### Olá! 👋
+# Olá, meu nome é Guilherme Mazur! 👋
 
 
 - 🎓 Bacharelado em Engenharia da Computação na UFBA (cursando)
