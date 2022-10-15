@@ -1,7 +1,7 @@
 <h3> &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Desenvolvendo soluções de software enquanto aprendo.
-- 🎓 &nbsp; Estudando **Engenharia da Computação** no <a href="https://www.ufba.br">UFBA</a>.
+- 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="https://www.ufba.br">UFBA</a>.
 - 💼 &nbsp; Trabalhando como **Dev Fullstack** na <a href="https://www.itech.net.br">iTech Tecnologia</a>
 - 👨‍💻 &nbsp; Participando e desenvolvendo soluções na <a href="https://titanci.com.br">TITAN</a> - Empresa Júnior de Engenharia da Computação
 - 🌱 &nbsp; Aprendendo mais sobre **Laravel, Nuxt, Next, Nest, Ionic e Flutter**.
