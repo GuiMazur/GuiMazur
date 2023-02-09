@@ -1,9 +1,8 @@
 <h3> &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Desenvolvendo soluções de software enquanto aprendo.
+- 🤔 &nbsp; Desenvolvedor Backend Pleno.
 - 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="https://www.ufba.br">UFBA</a>.
-- 💼 &nbsp; Trabalhando como **Dev Fullstack** na <a href="https://www.itech.net.br">iTech Tecnologia</a>
-- 👨‍💻 &nbsp; Participando e desenvolvendo soluções na <a href="https://titanci.com.br">TITAN</a> - Empresa Júnior de Engenharia da Computação
+- 💼 &nbsp; Trabalhando como **Dev Backend** na <a href="https://hiperbanco.com.br">Hiperbanco</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Laravel, Nuxt, Next, Nest, Ionic e Flutter**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -21,7 +20,6 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
