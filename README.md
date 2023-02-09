@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Desenvolvedor Backend Pleno.
 - 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="https://www.ufba.br">UFBA</a>.
 - 💼 &nbsp; Trabalhando como **Dev Backend** na <a href="https://hiperbanco.com.br">Hiperbanco</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Laravel, Nuxt, Next, Nest, Ionic e Flutter**.
+- 🌱 &nbsp; Aprendendo mais sobre **Queues e Microsserviços**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
