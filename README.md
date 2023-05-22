@@ -1,9 +1,8 @@
 <h3> &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Desenvolvedor Backend Pleno.
-- 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="https://www.ufba.br">UFBA</a>.
-- 💼 &nbsp; Trabalhando como **Dev Backend** na <a href="https://hiperbanco.com.br">Hiperbanco</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Queues e Microsserviços**.
+- 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="https://www.fiap.com.br">FIAP</a>.
+- 💼 &nbsp; **Dev Backend Pleno** na <a href="https://hiperbanco.com.br">Hiperbanco</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
