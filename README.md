@@ -2,7 +2,8 @@
 
 - 🤔 &nbsp; Desenvolvedor Fullstack (Com mais foco em backend) e Blockchain.
 - 🎓 &nbsp; Estudando **Engenharia de Software** na <a href="https://www.fiap.com.br">FIAP</a>.
-- 💼 &nbsp; Trabahando como **TechLead** na <a href="https://bloxs.com.br">Bloxs</a>
+- 💼 &nbsp; Trabahando como **TechLead** na <a href="https://bloxs.com.br">Bloxs</a>.
+- ⏰ &nbsp; Um dia vou ter tempo pra fazer mais projetos por aqui.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
